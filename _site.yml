@@ -1,11 +1,10 @@
+name: "contribution of ecology on the improvement of the quality of the environment"
 title: "carineboukeng-blog"
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Miscellaneous"
-      href: english-activity.html
     - text: "About"
       href: about.html
     - icon: fab fa-github
@@ -13,5 +12,6 @@ navbar:
 base_url:  https://carineboukeng.github.io/carineboukeng.blog/
 collections:
     posts:
+      disqus: carineboukeng-blog 
       share: [twitter, linkedin,facebook]
 output: distill::distill_article

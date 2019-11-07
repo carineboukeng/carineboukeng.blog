@@ -44,6 +44,6 @@ urban greening                        | Any attempt at revegetation of the terri
 | General topic?               |  In general, this project aims to improve the quality of the environment through the compensation of bioclimatic discomfort. this is to highlight the action of the wind on the residential complexes in Moscow   |
 | Procedure/what was examined? |  As a research method, physical modeling in a wind tunnel and numerical modeling in specialized software complexes are considered. The studies were conducted on the basis of the educational, scientific and scientific production laboratory for the construction of aerodynamic and aeroacoustic tests (ESPLab AATBC) using the aerodynamic tunnel with a large gradient of research|
 | Conclusions/discovery?       |   The results of a comprehensive computer and experimental study of the effect of wind on urban areas are used to develop design solutions (landscaping and urban planning), with a view to integrated soil improvement to compensate for the discomfort bioclimatic     |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Remaining questions?         |  there are not
 
 
