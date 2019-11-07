@@ -1,5 +1,4 @@
-name: "blog-template"
-title: "Nic's Blog"
+title: "carineboukeng-blog"
 output_dir: "docs"
 navbar:
   right:
@@ -14,5 +13,5 @@ navbar:
 base_url:  https://carineboukeng.github.io/carineboukeng.blog/
 collections:
     posts:
-      share: [twitter, linkedin, facebook]
+      share: [twitter, linkedin,facebook]
 output: distill::distill_article

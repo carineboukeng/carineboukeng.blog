@@ -1,20 +1,17 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1:Studies and evaluation of bioclimatic comfort of residential areas for improving the quality of environment",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Anagmo boukeng carine sainclair",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T11:43:27+02:00"
+    "date": "2019-06-10",
+    "categories": [],
+    "preview": "posts/2019-09-18-article-1/image",
+    "last_modified": "2019-11-07T15:17:22+01:00"
   }
 ]
