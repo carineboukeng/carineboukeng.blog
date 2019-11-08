@@ -1,8 +1,8 @@
 ---
-title: "Article 1:Studies and evaluation of bioclimatic comfort of residential areas for improving the quality of environment" 
+title: "Article 2: What is biodiversity?"
 author:
   - name: Anagmo boukeng carine sainclair
-date: 06-10-2019
+date: 11-07-2019
 preview: image
 output:
   distill::distill_article:
@@ -13,37 +13,34 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](https://t3.ftcdn.net/jpg/01/49/99/44/500_F_149994404_hwpppS4JpAvSmuAFvVMj9lOXp3FDWOU3.jpg) 
+![](http://www.green-valais.ch/images/flexi/item_860_field_123/l_greenvalais--biodiversite.jpg) 
 
 ## Name of the magazine + source [URL] 
 
-BUILD SIMUL (2019) 12: 177–182 https://doi.org/10.1007/s12273-018-0495-z 
+ encyclopedia of the environment https://www.encyclopedie-environnement.org/institutions/
 
 ## Vocabulary 
 
 
 |  Words from the text                | Synonym/explanation in English                                                                                                                                                                       |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| multi-store complexes               | local that has a severals store                                             | 
-| environmenr                         | together formed by living beings and all that surrounds them                |
-| bioclimatic comfort                 | biologically liveable environment|
-|insolation                           | action of sun rays on something|
-| bioclimatic confort                 | environment conducive to life|
-| wind tunnel                         | machine or assembly of machines intended for aeration or to produce the wind necessary in certain treatments
-| numerical modelling                 | it consists of constructing a set of mathematical functions describing the phenomenon|
-| physical modelling                  | Analogical modeling consists in constructing a physical system that reproduces more or less a phenomenon that one wishes to study. Observation of the behavior of the model makes it possible to draw lessons on the phenomenon of interest.|
-| residential areas                   | means an urban area belonging to a neighborhood where housing is the predominant function and where the public space is designed to be shared in the perspective of a real coexistence of different categories of users|
-| lanscaping                          | is a technical, artistic and scientific discipline, which consists of the requalification sanitary and aesthetic of a soil, in order to add to it an added value meeting social needs|
-urban greening                        | Any attempt at revegetation of the territory, namely the planting of trees, shrubs, climbing plants, flowers, vegetables, turf, etc., which aims to improve the quality of the environment, the economic benefits or the aesthetic value of the urban landscaping|
+| ecosystem       | A system formed by an environment (biotope) and by all the species (biocenosis) that live there, feed on it and breed th            | 
+| environmenr     | together formed by living beings and all that surrounds them                                     |
+| Biodiversity    | Biodiversity refers to all species and living things on Earth or in a specific ecosystem                                      |
+| specie          | race - type - variety                                             |
+| biotope         |living environment                                                            |
+| biocenose       |set of living things in one medium                                     |
+| genetic diversity| genetic variability                                            |
+| food chain      | the set of trophic chains that connect the organisms of a biocenosis.                      |
 
 ## Analysis table 
 
 | Researchers                  | Ilya Vladimirovichkin, Olga Igorevna Podaeva, Kirill Sergeevich Golokhvast                         | 
 | -----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Published in?                |  Tsinghua University Press and Springer-Verlag GmbH GeIn general, many, part of Springer Nature 2019                    |
-| General topic?               |  In general, this project aims to improve the quality of the environment through the compensation of bioclimatic discomfort. this is to highlight the action of the wind on the residential complexes in Moscow   |
-| Procedure/what was examined? |  As a research method, physical modeling in a wind tunnel and numerical modeling in specialized software complexes are considered. The studies were conducted on the basis of the educational, scientific and scientific production laboratory for the construction of aerodynamic and aeroacoustic tests (ESPLab AATBC) using the aerodynamic tunnel with a large gradient of research|
-| Conclusions/discovery?       |   The results of a comprehensive computer and experimental study of the effect of wind on urban areas are used to develop design solutions (landscaping and urban planning), with a view to integrated soil improvement to compensate for the discomfort bioclimatic     |
+| Published in?                |   JOYARD Jacques, Directeur de recherche honoraire au CNRS, Laboratoire de Physiologie cellulaire et végétale, Université Grenoble Alpe                  |
+| General topic?               |   |this study consists in highlighting the variability of African species in an environment, the variability between individuals of the same species and the interaction between species in ecosystems
+| Procedure/what was examined? |  As a research, the method used is based on the observation of fossil species and living species.                         |
+| Conclusions/discovery?       |  in conclusion, ecosystems have varied tremendously over the millions of years of evolution and adaptation, there is variation between different species and between individuals of the same species                          |
 | Remaining questions?         |  there are not
 
 
