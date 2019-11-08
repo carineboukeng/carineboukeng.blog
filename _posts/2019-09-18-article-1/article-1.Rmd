@@ -38,8 +38,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | Ilya Vladimirovichkin, Olga Igorevna Podaeva, Kirill Sergeevich Golokhvast                         | 
 | -----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Published in?                |   JOYARD Jacques, Directeur de recherche honoraire au CNRS, Laboratoire de Physiologie cellulaire et végétale, Université Grenoble Alpe                  |
-| General topic?               |   |this study consists in highlighting the variability of African species in an environment, the variability between individuals of the same species and the interaction between species in ecosystems
-| Procedure/what was examined? |  As a research, the method used is based on the observation of fossil species and living species.                         |
+| General topic?               |   |this study consists in highlighting the variability of African species in an environment, the variability between individuals of the same species and the interaction between species in ecosystems                                                                |
+| Procedure/what was examined? |  As a research, the method used is based on the observation of fossil species and living species.                              
+|
 | Conclusions/discovery?       |  in conclusion, ecosystems have varied tremendously over the millions of years of evolution and adaptation, there is variation between different species and between individuals of the same species                          |
 | Remaining questions?         |  there are not
 
