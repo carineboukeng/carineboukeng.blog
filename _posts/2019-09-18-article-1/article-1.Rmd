@@ -1,8 +1,8 @@
 ---
-title: "Article 2: What is biodiversity?"
+title: "Article 3: Living and environmental factors a carbon cycle disrupted by human activities"
 author:
   - name: Anagmo boukeng carine sainclair
-date: 11-07-2019
+date: 11-14-2019
 preview: image
 output:
   distill::distill_article:
@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](http://www.green-valais.ch/images/flexi/item_860_field_123/l_greenvalais--biodiversite.jpg) 
+![](http://imagesbiogeolfxm.free.fr/environnement/original/cycle%20du%20carbone%2010.jpg) 
 
 ## Name of the magazine + source [URL] 
 
@@ -22,26 +22,33 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Vocabulary 
 
 
-|  Words from the text                | Synonym/explanation in English                                                                                                                                                                       |
-|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ecosystem       | A system formed by an environment (biotope) and by all the species (biocenosis) that live there, feed on it and breed th            | 
-| environmenr     | together formed by living beings and all that surrounds them                                     |
-| Biodiversity    | Biodiversity refers to all species and living things on Earth or in a specific ecosystem                                      |
-| specie          | race - type - variety                                             |
-| biotope         |living environment                                                            |
-| biocenose       |set of living things in one medium                                     |
-| genetic diversity| genetic variability                                            |
-| food chain      | the set of trophic chains that connect the organisms of a biocenosis.                      |
+|  Words from the text                |   Synonym/explanation in English                                                                                                                                                         |
+
+
+|  carbon                             |   Carbon is the chemical element of atomic number 6 and symbol C. It has three natural isotopes: 12C and 13C which are stablla, carbon 14 is a radioactive isotope           | 
+
+|  nuclear fusion                     |   Nuclear fusion" also known as "thermonuclear fusion" is the union of two light atomic nuclei to form a single nucleus that is heavier and more stable.                                     |
+
+|  Solar Nebula                       |   cloud of gas from which the solar system was formed                                                                                                   |
+
+|  hydrocarbons                       |   organic molecules exclusively composed of carbon and hydrogen.                                                                                        |
+
+| photosynthesis                         is a biochemical energy reaction that takes place in plants                                                                    |
+
 
 ## Analysis table 
 
-| Researchers                  | Ilya Vladimirovichkin, Olga Igorevna Podaeva, Kirill Sergeevich Golokhvast                         | 
-| -----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Published in?                |   JOYARD Jacques, Directeur de recherche honoraire au CNRS, Laboratoire de Physiologie cellulaire et végétale, Université,  Grenoble Alpe                  |
-| General topic?               |   |this study consists in highlighting the variability of African species in an environment, the variability between individuals of the same species and the interaction between species in ecosystems                                                                |
-| Procedure/what was examined? |  As a research, the method used is based on the observation of fossil species and living species.                              
-|
-| Conclusions/discovery?       |  in conclusion, ecosystems have varied tremendously over the millions of years of evolution and adaptation, there is variation between different species and between individuals of the same species                          |
-| Remaining questions?         |  there are not
+
+| recherchers|   Jacques Joyard est Directeur de recherche honoraire au CNRS, SOMMERIA Joël, Research Director CNRS, LEGI (Laboratory of Geophysical and Industrial Flows), University Grenoble-Alpes                                                                      |
+
+| Published in?|   02/05/2019                                                                                                     |
+
+| General topic?|   This article shows the influence of man on the disruption of the carbon cycle by bush fires and most combustion of fossil fuels                                                                |
+
+| Procedure/what was examined?|   the method used for this study is the graphical observation that shows the variation of the carbon                            |
+
+| Conclusions/discovery?|   the accumulation of atmospheric CO2 induces global warming by increasing the greenhouse effect. It is also accompanied by an acidification of the oceans that affects marine organisms                                                                                              |
+
+| Remaining questions?|   there are not                |
 
 
