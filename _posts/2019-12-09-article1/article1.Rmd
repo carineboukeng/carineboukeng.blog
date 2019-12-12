@@ -1,0 +1,45 @@
+---
+title: "article_1:Studies and evaluation of bioclimatic comfort of residential areas for improving the quality of environment"
+description: |
+  A short description of the post.
+author:
+  - name: Anagmo boukeng carine sainclair
+    url: {https://doi.org/10.1007/s12273-018-0495-z }
+date: 12-09-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://t3.ftcdn.net/jpg/01/49/99/44/500_F_149994404_hwpppS4JpAvSmuAFvVMj9lOXp3FDWOU3.jpg)
+
+## Name of the magazine + source [URL]
+
+BUILD SIMUL (2019) 12: 177–182 https://doi.org/10.1007/s12273-018-0495-z
+
+## Vocabulary
+
+
+|  Words from the text          |             Synonym/explanation in English 
+|--------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|climate change impacts       |       Climate-change impacts are the consequences of climate change – both expected and realised – for natural and human systems. Climate impacts research is typically interdisciplinary and frequently involves the construction of climate impact models                                                                                                                                                                                                                                                                                                                                                                                              |
+|marine food webs             |   Marine food webs describe the linkages between all living organisms found in the marine environment                                |
+|climate change               |        corresponds to a lasting modification of the parameters of the global climate of the Earth or its various regional climates                                                                                                                                                                                                                                                                                                                                       |
+|biodiversity                 |      Biodiversity encompasses all living species on Earth, their relationship to one another, and the different genes, ecosystems and species                                                                                                                                                                                                                                                                                                                                                                       |
+|The trophic level            |     corresponds to a situation in the food chain or ecological pyramid of an ecosystem, mesocosm, microcosm            |
+
+
+## Analysis table 
+
+
+|  recherchers                 |    Edited by James A. Estes, University of California, Santa Cruz, CA                                                                   |
+|--------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Published in?               |   22/05/2019                                                                                                                                                                                                                                      |
+|General topic               |  this article highlights the influence of climate change on oceanic ecosystems. in fact it shows that with the advent of climate change, there is a considerable decline in biomass in the oceans.                                                                                                                                                                                                                                                                                                         |
+|Procedure/what was examined?|   Model Selection, Climate Change Scenarios,  Simulations, Analyses and Validation,  Data Accessibility, acknowledgment                                                                                                                                                                                                                                                                                                                                        |
+|Conclusions/discovery?      |   the ensemble projections demonstrate that global ocean animal biomass consistently declines with climate change, and that impacts are amplified at higher trophic levels                                                                                                                                                                                                                     |
+|Remaining questions?        |   there is not                |

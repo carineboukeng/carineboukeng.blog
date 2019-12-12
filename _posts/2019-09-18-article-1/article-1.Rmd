@@ -20,35 +20,24 @@ knitr::opts_chunk$set(echo = FALSE)
  encyclopedia of the environment https://www.encyclopedie-environnement.org/institutions/
 
 ## Vocabulary 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-|  Words from the text                |   Synonym/explanation in English                                                                                                                                                         |
-
-
-|  carbon                             |   Carbon is the chemical element of atomic number 6 and symbol C. It has three natural isotopes: 12C and 13C which are stablla, carbon 14 is a radioactive isotope           | 
-
-|  nuclear fusion                     |   Nuclear fusion" also known as "thermonuclear fusion" is the union of two light atomic nuclei to form a single nucleus that is heavier and more stable.                                     |
-
-|  Solar Nebula                       |   cloud of gas from which the solar system was formed                                                                                                   |
-
-|  hydrocarbons                       |   organic molecules exclusively composed of carbon and hydrogen.                                                                                        |
-
-| photosynthesis                         is a biochemical energy reaction that takes place in plants                                                                    |
+|  Words from the text                |   Synonym/explanation inb bnglish                                                                                   |
+--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+|  carbon                             |   Carbon is the chemical element of atomic number 6 and symbol C. It has three natural isotopes: 12C and 13C which are stablla, carbon 14 is a radioactive isotope           |                                                                                                                                                                                                                                      
+|  nuclear fusion                     |   Nuclear fusion" also known as "thermonuclear fusion" is the union of two light atomic nuclei to form a single nucleus that is heavier and more stable.                                     |                                                                                                                                                                                                     
+|  Solar Nebula                       |   cloud of gas from which the solar system was formed                                                                                                                                                                                                                                                                                          |
+|  hydrocarbons                       |   organic molecules exclusively composed of carbon and hydrogen.                                                                                                                                                                                                                                                                                                                           |
+| photosynthesis                      |   is a biochemical energy reaction that takes place in plants                                                                    |
 
 
 ## Analysis table 
 
-
-| recherchers|   Jacques Joyard est Directeur de recherche honoraire au CNRS, SOMMERIA Joël, Research Director CNRS, LEGI (Laboratory of Geophysical and Industrial Flows), University Grenoble-Alpes                                                                      |
-
-| Published in?|   02/05/2019                                                                                                     |
-
-| General topic?|   This article shows the influence of man on the disruption of the carbon cycle by bush fires and most combustion of fossil fuels                                                                |
-
-| Procedure/what was examined?|   the method used for this study is the graphical observation that shows the variation of the carbon                            |
-
-| Conclusions/discovery?|   the accumulation of atmospheric CO2 induces global warming by increasing the greenhouse effect. It is also accompanied by an acidification of the oceans that affects marine organisms                                                                                              |
-
-| Remaining questions?|   there are not                |
+| recherchers                                      | Jacques Joyard est Directeur de recherche honoraire au CNRS, SOMMERIA Joël, Research Director CNRS, LEGI (Laboratory of Geophysical and Industrial Flows), University Grenoble-Alpes   |
+| Published in?                                    | 02/05/2019                                                                                                                      |
+| General topic?                                   |  This article shows the influence of man on the disruption of the carbon cycle by bush fires and most combustion of fossil fuels   |
+| Procedure/what was examined?                     | the method used for this study is the graphical observation that shows the variation of the carbon                              |
+| Conclusions/discovery?                           |  the accumulation of atmospheric CO2 induces global warming by increasing the greenhouse effect. It is also accompanied by an acidification of the oceans that affects marine organisms                                                                                                                            |
+| Remaining questions                              | there are not                |
 
 
