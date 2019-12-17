@@ -1,0 +1,29 @@
+---
+title: "article-2"
+description: |
+  A short description of the post.
+author:
+  - name: Anagmo boukeng carine sainclair
+    url: {https://doi.org/101111/fwb.1313}
+date: 12-16-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](image/Procambarus_clarkii.jpg)
+
+## vocabulary 
+
+|words from the text       |         synonym/explanation in english
+|--------------------------------------------------- |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|admixture                |   assembly                                                                                                                                                                                  |
+|mitochondrial DNA          |  Mitochondrial DNA is a circular DNA molecule found in the mitochondria. This DNA molecule codes for part of the proteins and RNA specific to the functioning of the mitochondria.                                                                                                                                                                                              |   
+|invasion hubs            |
+|propagul pressur         |
+|biogeographic barriers   |

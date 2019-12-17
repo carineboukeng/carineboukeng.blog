@@ -40,7 +40,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |General topic               |  this article highlights the influence of climate change on oceanic ecosystems. in fact it shows that with the advent of climate change, there is a considerable decline in biomass in the oceans.                                                                                                                                                                                                                                                                                                         |
 |Procedure/what was examined?|   Model Selection, Climate Change Scenarios,  Simulations, Analyses and Validation,  Data Accessibility, acknowledgment                                                                                                                                                                                                                                                                                                                                        |
 |Conclusions/discovery?      |   the ensemble projections demonstrate that global ocean animal biomass consistently declines with climate change, and that impacts are amplified at higher trophic levels                                                                                                                                                                                                                     |
-|Remaining questions?        |   there is not                |
+|Remaining questions?        |   there is not                |
 
 
 
