@@ -1,0 +1,45 @@
+---
+title: "article5:Les lichens, de suprenants organismes pioniers"
+description: |
+  A short description of the post.
+author:
+  - name: Anagmo boukeng carine sainclair
+date: 02-15-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+![](https://www.google.com/search?q=environnement&rlz=1C1CHBF_frBE886BE887&sxsrf=ALeKk00deCiKeI2LS6ZlrcS5kxVzm4IMtA:1582358586149&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie2LyL2eTnAhUFSxUIHYx)
+
+## Name of the magazine + source [URL] 
+
+Encyclopedia of the environment https://www.encyclopedie-environnement.org/institutions/
+
+## Vocabulary
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    Words from the text   Synonym/explanation in English                                                                                           
+    lichens               symbiosis between mushroom and unicellular alga                                                                          
+    symbiosis             biological sustainable and mutually beneficial association between two living organisms                                  
+    ecology               Study of the environments in which living beings live, as well as the relationships of these beings with the environment
+    substratum            what servers at support                                                                                                  
+    pioneer species       is one of first form of life to colonize or recolonize a given ecological space                                                                                                                                                                 
+    
+## analyse table
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    recherchers                    ASTA Juliette, Maître de Conférences Honoraire, Laboratoire de Botanique de l’Université Joseph Fourier puis LECA, UGA (Université Grenoble Alpes) 
+    Published in?                  encyclopédie de l'environnement  14/09/2019                                                                                                        
+    general topics ?               interactions between lichens and environment                                                                                                       
+     Procedure/what was examined?  field and laboratory studies has shown that lichens are able to colonize any types of environment with lichenics substances                        
+     Conclusions/discovery?       lichens live in all environments except at sea. they live in symbiosis                                                                             
+    Remaining questions                                                                                 

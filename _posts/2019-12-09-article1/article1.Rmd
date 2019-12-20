@@ -1,11 +1,9 @@
 ---
-title: "article_1:Studies and evaluation of bioclimatic comfort of residential areas for improving the quality of environment"
-description: |
-  A short description of the post.
+title: "Article1:Studies and evaluation of bioclimatic comfort of residential areas for improving the quality of environment"
 author:
   - name: Anagmo boukeng carine sainclair
-    url: {https://doi.org/10.1007/s12273-018-0495-z }
-date: 12-09-2019
+date: 10-14-2019
+preview: image
 output:
   distill::distill_article:
     self_contained: false
