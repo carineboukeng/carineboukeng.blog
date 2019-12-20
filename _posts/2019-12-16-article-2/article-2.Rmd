@@ -1,11 +1,9 @@
 ---
-title: "article-2"
-description: |
-  A short description of the post.
+title: "Article 2: Unravelling the global invasion routes of a worldwide invader, the red swamp crayfish (Procambarus clarkii"
 author:
   - name: Anagmo boukeng carine sainclair
-    url: {https://doi.org/101111/fwb.1313}
-date: 12-16-2019
+date: 11-14-2019
+preview: image
 output:
   distill::distill_article:
     self_contained: false
@@ -19,11 +17,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## vocabulary 
 
-|words from the text       |         synonym/explanation in english
-|--------------------------------------------------- |
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|admixture                |   assembly                                                                                                                                                                                  |
-|mitochondrial DNA          |  Mitochondrial DNA is a circular DNA molecule found in the mitochondria. This DNA molecule codes for part of the proteins and RNA specific to the functioning of the mitochondria.                                                                                                                                                                                              |   
-|invasion hubs            |
-|propagul pressur         |
-|biogeographic barriers   |
+|  Words from the text   | synonym/explanation in english                                                                                                                                                      |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| admixture              |  assembly                                                                                                                                                                           |
+| mitochondrial DNA      |  Mitochondrial DNA is a circular DNA molecule found in the mitochondria. This DNA molecule codes for part of the proteins and RNA specific to the functioning of the mitochondria.  |
+| invasion hubs          | Mass arrival of animals or insect pests                                                                                                                                             |
+| propagul pressur       | it is  structure for dissemination and reproduction                                                                                                                                 |
+| biogeographic barriers |  adequacy                                                                                                                                                                           |
+## Analyse table
+
+| recherchers                                        | Francisco oficialdegui, Miguel clavero                                                                                                                                                                                                               |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in?                                      |  freshwater biology  may 2019                                                                                                                                                                                                                        |
+|  General topic?                                    |  our global was to reconstruct dynamic of a global freshwater invader, the red swamp crayfish, precambrius clarkii, through the analysis of its genetic variability in both native and inversive range                                               |
+| Procedure/what was examined?                       | Samplin, DNA extraction and sequencing, Genetic analyses                                                                                                                                                                                             |
+| Conclusions/discovery?                             |   our finding highlight the value of genetic analyses to identify the geographic origine of source population as well as the variability of invaded areas in order to reconstruct invasion dynamic and facilitate managment of invasive species      |
+|  Remaining questions                               | there are not                                                                                                                                                                                                                                        |
