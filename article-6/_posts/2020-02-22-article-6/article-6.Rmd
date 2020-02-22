@@ -40,4 +40,4 @@ knitr::opts_chunk$set(echo = FALSE)
     general topics ?               lichen and environmental protection                                                                                                                    
      Procedure/what was examined?  field and laboratory studies(qualitative and quantitative methods) has shown that lichens are able to colonize any types of environment with lichenics substances                                                                                                                                                                                                         
      Conclusions/discovery?        lichens live in all environments except at sea. they live in symbiosis                                                                             
-    Remaining questions                                                                                 
+    Remaining questions                                                                                                                                                              
