@@ -1,0 +1,32 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to ",
+    "description": "Welcome to our new blog, . We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-02-22",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-22T10:34:56+01:00"
+  },
+  {
+    "path": "posts/2020-02-22-article-6/",
+    "title": "article-6:Lichens et qualité de l’environnement",
+    "description": "role of lichen on environmental protection| A short description of the post.",
+    "author": [
+      {
+        "name": "Carine Sainclair",
+        "url": "https://www.encyclopedie-environnement.org/vivant/lichens-qualite-de-lenvironnement/"
+      }
+    ],
+    "date": "2020-02-22",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-22T11:59:27+01:00"
+  }
+]
